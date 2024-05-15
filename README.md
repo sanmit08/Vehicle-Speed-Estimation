@@ -9,8 +9,8 @@ This project presents a vision-based system designed to measure the speed of veh
 
 ## Algorithms and Methodologies
 1. Feature Extraction:
-  * FAST Algorithm: Used for corner detection and key point extraction.
-  * FREAK Descriptor: Inspired by the human retina, providing efficient feature vector generation.
+   * FAST Algorithm: Used for corner detection and key point extraction.
+   * FREAK Descriptor: Inspired by the human retina, providing efficient feature vector generation.
 
 2. Feature Scaling and Dimension Reduction:
    * Feature vectors are normalized and standardized.

@@ -1,5 +1,5 @@
 # Vehicle-Speed-Estimation
-This project presents a vision-based system designed to measure the speed of vehicles on roads, aiding in the enforcement of traffic laws by detecting over-speeding vehicles. The system leverages camera input and advanced computer vision algorithms to detect, track, and estimate vehicle speeds in real-time, making it a cost-effective alternative to traditional sensor-based methods.
+This project presents a vision-based system designed to measure the speed of vehicles on roads, aiding in the enforcement of traffic laws by detecting over-speeding vehicles. The system leverages camera input and conventional computer vision and machine learning algorithms to detect, track, and estimate vehicle speeds in real-time, making it a cost-effective alternative to traditional sensor-based methods. This approach ensures that we thoroughly understand the fundamental workings of the various techniques involved.
 
 ## Features
 * Vehicle Detection and Tracking: Uses Fast Retina Key-point (FREAK) and Features from Accelerated Segment Test (FAST) algorithms for efficient feature extraction and vehicle detection.
